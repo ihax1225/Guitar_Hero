@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_05\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files\Java\BlueJ\lib\bluejcore.jar;C:\Program Files\Java\BlueJ\lib\junit-4.8.2.jar;C:\Program Files\Java\Program and Installation Files (Lab)\Karel J Robot\KarelJRobot.jar;C:\Program Files\Java\Program and Installation Files (Lab)\Gridworld\gridworld.jar;C:\Program Files\Java\Program and Installation Files (Lab)\Turtle Graphics\BreezySwing.jar;C:\Program Files\Java\Program and Installation Files (Lab)\Turtle Graphics\TurtleGraphics.jar;C:\Program Files\Java\LeJos\leJOS NXJ\lib\nxt\classes.jar;E:\Data Structures\Guitar Heroine
+-d
+E:\Data Structures\Guitar Heroine\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files\Java\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+E:\Data Structures\Guitar Heroine\RingBuffer.java
+<---- end of javadoc command ---->
+Loading source file E:\Data Structures\Guitar Heroine\RingBuffer.java...
+Constructing Javadoc information...
+E:\Data Structures\Guitar Heroine\RingBuffer.java:8: warning - @author tag has no arguments.
+E:\Data Structures\Guitar Heroine\RingBuffer.java:8: warning - @version tag has no arguments.
+Standard Doclet version 1.7.0_05
+Building tree for all the packages and classes...
+Generating E:\Data Structures\Guitar Heroine\doc\RingBuffer.html...
+Generating E:\Data Structures\Guitar Heroine\doc\package-frame.html...
+Generating E:\Data Structures\Guitar Heroine\doc\package-summary.html...
+Generating E:\Data Structures\Guitar Heroine\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating E:\Data Structures\Guitar Heroine\doc\allclasses-frame.html...
+Generating E:\Data Structures\Guitar Heroine\doc\allclasses-noframe.html...
+Generating E:\Data Structures\Guitar Heroine\doc\index.html...
+Generating E:\Data Structures\Guitar Heroine\doc\stylesheet.css...
+2 warnings
